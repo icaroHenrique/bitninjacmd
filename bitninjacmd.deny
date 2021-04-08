@@ -1,0 +1,4 @@
+#Add IPs for blacklist
+#Exemple:
+# IP #Comment
+# 192.168.0.1 #IP local

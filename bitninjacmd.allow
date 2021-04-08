@@ -1,0 +1,4 @@
+#Add IPs for whitelist
+#Exemple:
+# IP #Comment
+# 192.168.0.1 #IP local
