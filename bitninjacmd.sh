@@ -16,9 +16,9 @@
 
 #var_globals-----------------------------------------------------------------------------
 
-whitelist_file="/scripts/bitninjacmd/bitninjacmd.allow"
-blacklist_file="/scripts/bitninjacmd/bitninjacmd.deny"
-neutrallist_file="/scripts/bitninjacmd/bitninjacmd.neutral" #Use to remove IPs from the blacklist and whitelist
+whitelist_file="./bitninjacmd.allow"
+blacklist_file="./bitninjacmd.deny"
+neutrallist_file="./bitninjacmd.neutral" #Use to remove IPs from the blacklist and whitelist
 regex_ip='^(([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-4][0-9]|25[0-5]){1}(\/([0-9]|[1-2][0-9]|3[0-2]))?$' #Check if IP valid number
 #-----------------------------------------------------------------------------------------
 
